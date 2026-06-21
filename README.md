@@ -69,7 +69,9 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Strong foundation in Microsoft Defender and Sentinel
 - Hands-on incident investigation and response skills
 - KQL proficiency for log analysis and threat hunting
-- Alignment with SOC and real-world enterprise security practices
+- Monitoring and securing identity, endpoint, and cloud environments (Entra ID, Defender, Azure)
+- SIEM & SOAR concepts using Microsoft Sentinel and automation playbooks
+- Exposure to Zero Trust security principles and modern threat detection strategies
 
 Each lab includes:
 
