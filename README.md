@@ -40,6 +40,8 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Tracking Privileged Identity Management (PIM) activities
 - Detecting suspicious authentication patterns
 
+---
+
 ##🎯 Approach
 
 - Hands-on, real-world security scenarios
@@ -67,18 +69,24 @@ Each lab includes:
 - Screenshots of alerts and findings
 - Response and remediation steps
 
+---
 
 ##🔍 Keywords
+
 SC-200 • Microsoft Sentinel • Microsoft Defender • Threat Hunting •
 KQL • Security Operations • Incident Response • SIEM • SOAR •
 Entra ID Security • Identity Protection • Zero Trust • Cloud Security
+
 ---
+
 ##📢 Final Notes
 This portfolio reflects my hands-on experience in monitoring, detecting, and responding to threats across Microsoft cloud environments.
 It complements my work in Azure and Microsoft 365 security, with a strong focus on identity protection, endpoint security, and security operations.
+
 ---
+
 ##Contact
-📬 Contact
+
 Connect with me or follow my work:
 📧 kawerehacker@gmail.com
 🔗 https://www.linkedin.com/in/kawere-herbert-385489275
