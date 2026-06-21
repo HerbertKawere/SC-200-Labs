@@ -16,7 +16,9 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Investigating alerts and security incidents
 - Performing response actions (isolation, remediation)
 - Configuring attack surface reduction and security baselines
+- Investigating threats in Microsoft Defender for Cloud
 - Exploring Defender for Identity and Microsoft 365 Defender
+- Detecting and mitigating endpoint threats using Defender for Endpoint
 
 ### Phase 2: Microsoft Sentinel (SIEM & SOAR)
 - Deploying and configuring Microsoft Sentinel
@@ -31,6 +33,8 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Analyzing logs using Azure Monitor and Log Analytics
 - Investigating sign-in logs, audit logs, and security events
 - Mapping threats to MITRE ATT&CK techniques
+- Using Microsoft Security Copilot to analyze and mitigate threats
+- Enhancing detection and response using AI-driven insights
 
 ---
   
@@ -41,6 +45,12 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Detecting suspicious authentication patterns
 
 ---
+
+### Phase 5: Data Security & Compliance (Microsoft Purview)
+- Investigating and mitigating threats using Microsoft Purview
+- Monitoring data activity and insider risk signals
+- Applying data protection policies and sensitivity labels
+- Correlating security events with data exposure risks
 
 ##🎯 Approach
 
