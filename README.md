@@ -11,7 +11,7 @@ With 10+ years in IT and hands-on experience across Azure, Microsoft 365, endpoi
 
 This project is organized into key phases aligned with SC-200 domains and real-world security operations readiness:
 
-### Phase 1: Microsoft Defender (Threat Protection)
+### Phase 1: Microsoft Defender XDR
 - Deploying and onboarding endpoints to Microsoft Defender for Endpoint
 - Investigating alerts and security incidents
 - Performing response actions (isolation, remediation)
@@ -20,7 +20,7 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Exploring Defender for Identity and Microsoft 365 Defender
 - Detecting and mitigating endpoint threats using Defender for Endpoint
 
-### Phase 2: Microsoft Sentinel (SIEM & SOAR)
+### Phase 2: Microsoft Security Copilot
 - Deploying and configuring Microsoft Sentinel
 - Connecting data sources (Azure, Entra ID, Microsoft 365)
 - Creating and tuning analytics rules
@@ -28,7 +28,7 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 - Automating response using Playbooks (Logic Apps)
 
 
-### Phase 3: Threat Hunting & Investigation
+### Phase 3: Microsoft Purview
 - Writing and executing KQL queries for threat hunting
 - Analyzing logs using Azure Monitor and Log Analytics
 - Investigating sign-in logs, audit logs, and security events
@@ -38,7 +38,7 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 
 ---
   
-### Phase 4: Identity & Access Security Monitoring
+### Phase 4: Microsoft Defender For Endpoint
 - Monitoring risky sign-ins and identity protection in Entra ID
 - Analyzing Conditional Access insights
 - Tracking Privileged Identity Management (PIM) activities
@@ -46,11 +46,14 @@ This project is organized into key phases aligned with SC-200 domains and real-w
 
 ---
 
-### Phase 5: Data Security & Compliance (Microsoft Purview)
+### Phase 5: Microsoft Defender For Cloud
 - Investigating and mitigating threats using Microsoft Purview
 - Monitoring data activity and insider risk signals
 - Applying data protection policies and sensitivity labels
 - Correlating security events with data exposure risks
+
+### Phase 6: Microsoft Sentinel Using KQL
+
 
 ##🎯 Approach
 
